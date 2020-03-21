@@ -15,22 +15,17 @@ module.exports = {
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/anubhavsrivastava',
+      url: 'https://github.com/Adhikaribharath',
     },
     {
       icon: 'fa-linkedin-in',
       name: 'Linkedin',
-      url: 'https://linkedin.com/in/theanubhav/',
+      url: 'https://www.linkedin.com/in/bharath-kumar-adhikari-b53b81125/',
     },
-    {
-      icon: 'fa-twitter',
-      name: 'Twitter',
-      url: 'https://twitter.com/onlyanubhav',
-    },
-    {
+     {
       icon: 'fa-facebook-f',
       name: 'Facebook',
-      url: 'https://facebook.com/theanubhav',
+      url: 'https://www.facebook.com/adhikari.bharathkumar',
     },
   ],
   email: 'adhikaribharath13@gmail.com',
