@@ -1,14 +1,14 @@
 {
-  "name": "gatsby-starter-resume",
+  "name": "adhikari-bharath-profile",
   "version": "0.0.1",
   "description": "Gatsby.js V2 starter template based on Resume by startbootstrap",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/anubhavsrivastava/gatsby-starter-resume.git"
+    "url": "git+https://github.com/Adhikaribharath/adhikari-bharath-profile.git"
   },
   "author": {
-    "name": "Anubhav Srivastava",
-    "email": "anubhav.srivastava00@gmail.com"
+    "name": "Bharath Adhikari",
+    "email": "adhikaribharath13@gmail.com"
   },
   "dependencies": {
     "gatsby": "^2.20.2",
