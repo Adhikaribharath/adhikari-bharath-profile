@@ -95,8 +95,7 @@ const IndexPage = () => (
             <div className="resume-content">
               <h3 className="mb-0">B V Raju Institue of Technology</h3>
               <div className="subheading mb-3">Bachelor of Technology</div>
-              <div>Electrical & Electronics Engineering/div>
-              <p>Percentage: 74.3%</p>
+              <div>Electrical & Electronics Engineering</div>
             </div>
             <div className="resume-date text-md-right">
               <span className="text-primary">MAY 2013 - MAY 2017</span>
